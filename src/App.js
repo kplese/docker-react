@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there againasd!
+          Hi there againasd! Feature
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React Feature
         </a>
       </header>
     </div>
